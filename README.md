@@ -15,4 +15,5 @@ example below:
 ```
 ./import_tables.sh testauth/  testauth  passwd123
 ```
-### enter path of directory where all the tables are stored within a directory (just give directory name only)  after than give database name (if getting any error create database in mysql manually first) after than give password of mysql
+### Enter path of directory where all the tables are stored within a directory (just give directory name only) After than give database name.  
+### NOTE: (if getting any error create database in mysql manually first) after than run the script according to instruction
