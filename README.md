@@ -1,7 +1,7 @@
 # SQL-Dump-Restore-Script
 
 ```
-https://github.com/Umair7865/SQL-Dump-Restore-Script.git
+git clone https://github.com/Umair7865/SQL-Dump-Restore-Script.git
 cd SQL-Dump-Restore-Script
 chmod +x import_tables.sh
 
