@@ -12,7 +12,7 @@ No need to modify this script, just run the below command with path of directory
 ```
 example below:
 ```
-./import_tables.sh /home/ubuntu/testauth/  testauth  passwd123
+./import_tables.sh    /home/ubuntu/testauth/  testauth  passwd123
 
 ./import_tables.sh    testauth/  testauth  passwd123
 ```
